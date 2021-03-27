@@ -42,11 +42,6 @@ class Contact extends Component {
                   </div>
 
                   <div>
-						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
 						   <label htmlFor="contactSubject">Subject</label>
 						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
                   </div>
@@ -75,11 +70,12 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Location and Name</h4>
+					   <h4>Address and Phone</h4>
 					   <p className="address">
 						   {name}<br />
-						   {city} {state}<br />
-						   <span>{phone}</span>
+						   {city}, {state} <br />
+						   <span>{phone}</span><br />
+               <span><a href="mailto:sam.sausville@outlook.com">sam.sausville@outlook.com</a></span>
 					   </p>
 				   </div>
             </aside>

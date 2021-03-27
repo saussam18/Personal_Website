@@ -1,15 +1,15 @@
 {
   "main": {
     "name":"Samuel Sausville",
-    "occupation":"Aspiring SWE/PM/Entrepenur",
+    "occupation":"Aspiring SWE/PM/Entrepreneur",
     "description":" Current Computer Science & Business Student at Lehigh University. Passionate about software product design",
     "image":"profilepic.jpg",
-    "bio":"Love learning about new products that are being offered. Non-fiction reading enthusistant around startups, business and decsion making (Check out SocSem below). Avid Seahawks fan, GO HAWKS! If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!",
-    "contactmessage":"Please contact me about potential opprotunities, or if you just want to chat!",
+    "bio":"Love learning about new products that are being offered. Non-fiction reading enthusiast around startups, business and decision making (Check out SocSem below). Avid Seahawks fan, GO HAWKS! If you are looking to get to know me, take me to a Mexican Restaurant or Taco Bell and I am all yours!",
+    "contactmessage":"Please contact me about potential opportunities, or if you just want to chat!",
     "email": "sam.sausville@outlook.com",
     "phone": "Email or DM first",
     "address":{
-      "city":"Seattle,",
+      "city":"Seattle",
       "state":"Washington"
     },
     "website": "http://www.samsausville.com",
@@ -38,31 +38,31 @@
     ]
   },
   "resume":{
-    "skillmessage":"Skilled in Product Management, Full-Stack Devlopment, Database Systems, Mobile Devleopment and Web Development",
+    "skillmessage":"Skilled in Product Management, Full-Stack Development, Database Systems, Mobile Development and Web Development",
     "education":[
       {
         "school":"Lehigh University",
         "degree":"Computer Science & Busienss",
         "graduated":"May 2022",
-        "description":"Relevent Coursework - Database Systems Algorithms & Applications, Software Engineering, Design & Analysis of Algorithms, Systems Programming in C/C++, Discrete Structures & Algorithms, Programming & Data Structures, Computer Applications in Business, Programming Languages, Financial Accounting"
+        "description":"Relevant Coursework - Database Systems Algorithms & Applications, Software Engineering, Design & Analysis of Algorithms, Systems Programming in C/C++, Discrete Structures & Algorithms, Programming & Data Structures, Computer Applications in Business, Programming Languages, Financial Accounting"
       }
     ],
     "work":[
       {
-        "company":"Microsoft - Powerapps",
+        "company":"Microsoft - PowerApps",
         "title":"Incoming Software Engineering Intern",
         "years":"May 2021 - August 2021",
         "description":"Information coming soon!"
       },
       {
-        "company":"T-Mobile - Product & Technolgy",
+        "company":"T-Mobile - Product & Technology",
         "title":"Product Manager Intern ",
         "years":"June 2020 - August 2020",
         "description":"Supported the device experience team of 7 members in product design, planning, development, testing and management. Presented 5G market research analyzing current & future 5G adoption, and proposing 20 opportunities for growth. Identified pain points in the design and implementation of a product, mapping 25 customer experiences in MS Visio. Worked in an Agile - Scrum environment, attending 5 weekly stand ups with 2 different teams related to device experience."
       },
       {
         "company":"Preff - Startup",
-        "title":"Full-Stack Software Engineer",
+        "title":"Co-Founder/Full-Stack Software Engineer",
         "years":"August 2019 - January 2021",
         "description":"Developed the iOS/Android application, actuating technical feasibility of the UI/UX using the Flutter framework in Dart. Enabled a phone verification route to verify a user’s phone number utilizing Node.js and the Twilio Verify API. Implemented Google Maps and Places API to automatically detect 20 restaurants in near proximity to the user"
       }
@@ -77,6 +77,14 @@
         "level":"60%"
       },
       {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name": "Flutter",
+        "level": "60%"
+      },
+      {
         "name": "C/C++",
         "level": "50%"
       },
@@ -89,28 +97,20 @@
         "level":"50%"
       },
       {
-        "name": "Flutter",
-        "level": "60%"
-      },
-      {
         "name":"ReactJs",
         "level":"40%"
-      },
-      {
-        "name":"Node.js",
-        "level":"60%"
       },
       {
         "name":"VueJs",
         "level":"30%"
       },
       {
-        "name":"CSS",
-        "level":"20%"
-      },
-      {
         "name":"HTML5",
         "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"20%"
       }
     ]
   },
