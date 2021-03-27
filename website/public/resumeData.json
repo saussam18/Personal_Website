@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Samuel Sausville",
+    "occupation":"Aspiring SWE/PM/Entrepenur",
+    "description":" Current Computer Science & Business Student at Lehigh University. Passionate about software product design",
+    "image":"profilepic.jpg",
+    "bio":"Love learning about new products that are being offered. Non-fiction reading enthusistant around startups, business and decsion making (Check out SocSem below). Avid Seahawks fan, GO HAWKS! If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!",
+    "contactmessage":"Please contact me about potential opprotunities, or if you just want to chat!",
+    "email": "sam.sausville@outlook.com",
+    "phone": "Email or DM first",
+    "address":{
+      "city":"Seattle,",
+      "state":"Washington"
+    },
+    "website": "http://www.samsausville.com",
+    "resumedownload":"https://drive.google.com/file/d/1pHbwdaO-gFePdHpC1EQoQpNSENF731kD/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sam-sausville/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/sausyville",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/sausyville",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/saussam18",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skilled in Product Management, Full-Stack Devlopment, Database Systems, Mobile Devleopment and Web Development",
+    "education":[
+      {
+        "school":"Lehigh University",
+        "degree":"Computer Science & Busienss",
+        "graduated":"May 2022",
+        "description":"Relevent Coursework - Database Systems Algorithms & Applications, Software Engineering, Design & Analysis of Algorithms, Systems Programming in C/C++, Discrete Structures & Algorithms, Programming & Data Structures, Computer Applications in Business, Programming Languages, Financial Accounting"
+      }
+    ],
+    "work":[
+      {
+        "company":"Microsoft - Powerapps",
+        "title":"Incoming Software Engineering Intern",
+        "years":"May 2021 - August 2021",
+        "description":"Information coming soon!"
+      },
+      {
+        "company":"T-Mobile - Product & Technolgy",
+        "title":"Product Manager Intern ",
+        "years":"June 2020 - August 2020",
+        "description":"Supported the device experience team of 7 members in product design, planning, development, testing and management. Presented 5G market research analyzing current & future 5G adoption, and proposing 20 opportunities for growth. Identified pain points in the design and implementation of a product, mapping 25 customer experiences in MS Visio. Worked in an Agile - Scrum environment, attending 5 weekly stand ups with 2 different teams related to device experience."
+      },
+      {
+        "company":"Preff - Startup",
+        "title":"Full-Stack Software Engineer",
+        "years":"August 2019 - January 2021",
+        "description":"Developed the iOS/Android application, actuating technical feasibility of the UI/UX using the Flutter framework in Dart. Enabled a phone verification route to verify a user’s phone number utilizing Node.js and the Twilio Verify API. Implemented Google Maps and Places API to automatically detect 20 restaurants in near proximity to the user"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript ES6+",
+        "level":"60%"
+      },
+      {
+        "name": "C/C++",
+        "level": "50%"
+      },
+      {
+        "name":"Dart",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"50%"
+      },
+      {
+        "name": "Flutter",
+        "level": "60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"Node.js",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"30%"
+      },
+      {
+        "name":"CSS",
+        "level":"20%"
+      },
+      {
+        "name":"HTML5",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "SocSem",
+        "category": "Current Startup idea I am pursuing. Landing page in development currently",
+        "image": "SocSem.png",
+        "url": "socsem.com" 
+      },
+      {
+        "title": "Pathfindng Algoritihm Visualizer",
+        "category": "Web Application in React, CSS and HTML",
+        "image": "path.png",
+        "url": "https://github.com/saussam18/Pathfinding-Maze-Visualizer" 
+      },
+      {
+        "title":"CSE 341 Bank Database System",
+        "category":"Database design and implementation for my Database Systems class in Java and Oracle SQL/DDL",
+        "image":"CSE341ER.png",
+        "url":"https://github.com/saussam18/Nickel-Bank-Management-System"
+      },
+      {
+        "title":"Hom, 1st Place Winner - Citibank Fintech Hackathon",
+        "category":"Flutter Mobile Application to match graduates with a city",
+        "image":"hom.png",
+        "url":"https://devpost.com/software/hom"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
